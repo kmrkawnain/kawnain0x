@@ -1,0 +1,6 @@
+{
+  "name": "PharmBot - HAP Unit 2 Notes Downloader",
+  "description": "Automated download bot for B. Pharmacy PCI New Syllabus Human Anatomy & Physiology (HAPP) Unit 2 complete notes, diagrams, and exam answers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
